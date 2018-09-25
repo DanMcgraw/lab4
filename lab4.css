@@ -1,0 +1,24 @@
+h1{
+  background-color: blue;
+}
+nav{
+  background-color: gray;
+  font-size: 18pt;
+}
+h2{
+  background-color: white;
+  font-size: 11pt;
+}
+#bio{
+  background-color: orange
+}
+#other{
+  background-color: red;
+}
+#review{
+  background-color: yellow;
+}
+footer{
+  background-color: brown;
+  font-size: 18pt;
+}
