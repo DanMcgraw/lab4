@@ -10,7 +10,8 @@ h2{
   font-size: 11pt;
 }
 #bio{
-  background-color: orange
+  background-color: orange;
+  font-size: 10pt;
 }
 #other{
   background-color: red;
